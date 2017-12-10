@@ -1,7 +1,7 @@
 @extends('layout.app');
 
-@section('title','Welcome')
+@section('title','about')
 
 @section('body')
-    Welcome body
+    about
 @endsection
